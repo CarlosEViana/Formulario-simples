@@ -1,0 +1,33 @@
+body {
+
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: linear-gradient(to right, #e65757, #3a146b);
+    color: #fff;
+    text-align: center;
+
+}
+
+#container-formulario {
+
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;   
+    border: 1px solid white;
+
+}
+
+#container-formulario form{
+
+    padding: 30px;
+    
+
+}
+
+#container-formulario form label p{
+
+    padding: 16px;
+
+}
