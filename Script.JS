@@ -16,6 +16,7 @@
         alert("Preencha os campos faltantes.")
       }
 
+      
 		}
         
         // função para validar os dados
